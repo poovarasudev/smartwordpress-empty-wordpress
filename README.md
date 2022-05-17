@@ -1,0 +1,1 @@
+# smartwordpress-empty-wordpress
